@@ -6,7 +6,7 @@ Practice-based financial modelling projects built from real company annual repor
 
 ## Project 1: Nestlé India — 3-Statement Model
 
-**File:** `Nestle_India_3_Statement_Model.xlsx`
+**File:** Nestle_India_3_Statement_Model.xlsx
 
 ### Overview
 A fully linked 3-statement financial model (Income Statement, Balance Sheet, Cash Flow Statement) built from Nestlé India's standalone financial statements, covering FY 2023-24 to FY 2025-26.
@@ -25,7 +25,7 @@ Chosen as a first modelling project for its single-segment FMCG business, minima
 - **Standalone financials used** (not consolidated) to keep the model focused on Nestlé India's core entity.
 - **Cash Flow Statement copied from the reported financials** rather than fully derived from Balance Sheet movements. Actuarial adjustments embedded in employee benefit provisions and contingency provisions made a from-scratch derivation unreliable without additional actuarial disclosures — so the reported CF was used as the source of truth, with Income Statement lines (PBT, Depreciation, Exceptional Items) still linked live into it.
 - **Balance Sheet Cash is linked to the Cash Flow Statement's** ending cash balance rather than hardcoded, so the two statements are structurally connected.
-- **Balance check row** (`Total Assets − Total Equity & Liabilities`) confirms the model balances to zero across all 3 years.
+- **Balance check row** (Total Assets − Total Equity & Liabilities) confirms the model balances to zero across all 3 years.
 
 ### Checks Performed
 - ✅ Balance Sheet balances (Assets = Equity + Liabilities) for all 3 years
@@ -48,7 +48,7 @@ Nestlé India Ltd. Annual Reports (FY 2023-24, FY 2024-25, FY 2025-26), publicly
 ---
 
 ## Roadmap
-- **Project 2:** Forecasting — revenue and cost drivers, working capital assumptions, equity roll-forward, and a debt schedule (introducing circularity)
+- **Project 2:** Forecasting — revenue and cost drivers, working capital assumptions, equity roll-forward, and a debt schedule
 - **Project 3:** DCF valuation
 - **Project 4:** Sensitivity analysis and comparable company analysis
 
