@@ -1,0 +1,10 @@
+# Temporary Excel lock files
+~$*.xlsx
+~$*.xls
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Source annual report PDFs (don't publish these - link to them instead in README)
+source_data/*.pdf
