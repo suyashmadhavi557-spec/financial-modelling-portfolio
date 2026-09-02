@@ -6,7 +6,7 @@ Practice-based financial modelling projects built from real company annual repor
 
 ## Project 1: Nestlé India — 3-Statement Model
 
-**File:** Nestle_India_3_Statement_Model.xlsx
+**File:** Nestle India 3 Statement Model.xlsx
 
 ### Overview
 A fully linked 3-statement financial model (Income Statement, Balance Sheet, Cash Flow Statement) built from Nestlé India's standalone financial statements, covering FY 2023-24 to FY 2025-26.
